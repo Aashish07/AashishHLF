@@ -1,0 +1,25 @@
+{
+  "name": "node2.0",
+  "version": "1.0.0",
+  "description": "HLF node Restpoints",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Aashish Pasricha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fabric-ca-client": "^2.2.5",
+    "fabric-client": "^1.4.17",
+    "fabric-common": "^2.2.5",
+    "fabric-network": "^2.2.5",
+    "js-yaml": "^4.0.0",
+    "log4js": "^6.3.0",
+    "nodemon": "^2.0.7",
+    "npm": "^6.14.10",
+    "save": "^2.4.0"
+  }
+}
